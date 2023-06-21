@@ -38,6 +38,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  title="ExpressJS" alt="ExpressJS" width="60" height="60"/>&nbsp; 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="60" height="60"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git"width="60" height="60"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="Git" **alt="React"width="60" height="60"/>
+   
   </div>
   <br/>
   <h3>:fire:My Stats:</h3>
