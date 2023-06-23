@@ -9,7 +9,7 @@
   </div>
   
   
-  # Hi, I'm Ankit Avinash Lomte! 👋
+  # Hi, I'm Ankita Avinash Lomte! 👋
   I'm a Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, React.
   <div id="gif" align="center">
     <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
