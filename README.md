@@ -1,3 +1,13 @@
+
+  
+  
+  # Hi, I'm Ankita Avinash Lomte! 👋
+  I'm a Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, React.
+  <div id="gif" align="center">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+  </div>
+
+
  <div id="header" align="center">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJDOCHYZ15uqcRX7YWevCP65SnQ0kvo4_zXCNzDD3OgaARZOyYW7FT3vTeiVS7cnLL-xE&usqp=CAU" width="200"/>
   </div>
@@ -7,13 +17,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  
-  
-  # Hi, I'm Ankita Avinash Lomte! 👋
-  I'm a Full Stack Developer with experience in HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, React.
-  <div id="gif" align="center">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-  </div>
+
   
   
   ## 🚀 About Me
