@@ -29,8 +29,7 @@
   - ✳️: I'm currently learning Node, express, mongoDB , React 
   - 👨‍🦱: Want to know more about me <a href="https://lomteankita.github.io/">PortFolio</a>
   - 💬:Ask me about: <b>Backend</b>,<b>Node</b>,<b>RestAPI</b>,<b>Frontend</b>,<b>React</b>
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-lomte-482457245/)   [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](aankitalomte@gmail.com)
-  
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-lomte-482457245/)  
   
   ### :hammer_and_wrench: Languages and Tools :
   <div>
